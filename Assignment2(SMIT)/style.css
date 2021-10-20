@@ -1,0 +1,56 @@
+#header {
+    background-color: gray;
+    color: white;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+#Navigationmenu {
+     background-color: gray;
+    color: white;
+    height: 60px;
+    display: flex;
+    align-items: center;
+
+}
+
+#maincontent {
+    background-color: lightblue;
+    height: 400px;
+    width: 100%;
+    display: flex;
+
+}
+
+#navigation {
+    background-color: brown;
+    height: 370px;
+    width: 25%;
+    padding: 15px;
+}
+
+.navItem {
+    background-color: yellow;
+    height: 50px;
+    margin: 10px;
+    padding: 25px 0px 10px 20px;
+}
+
+#footer {
+    background-color: gray;
+    color: white;
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+}
+
+#content {
+    background-color: greenyellow;
+    color: white;
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 20px;
+}
